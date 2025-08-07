@@ -1,4 +1,5 @@
-<img width="1600" height="240" alt="CustomWordle" src="https://github.com/user-attachments/assets/7448df6a-fdc0-4e13-912d-9fcdfbb4eaac" />
+
+<img width="1600" height="240" alt="CWBanner" src="https://github.com/user-attachments/assets/f0d6aa30-d477-4bd3-9f3b-66dae1e6eaaf" />
 
 ---
 
