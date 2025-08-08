@@ -8,14 +8,12 @@
 </head>
 <body>
     <div class="game-container">
-        <h1>Custom Wordle</h1>
-        <div class="input-section" id="input-section">
-            <input type="text" class="word-input" id="secret-word-input" placeholder="5 letter word" maxlength="5">
+        <div id="setup-section">
+            <input type="text" id="custom-word" maxlength="5" placeholder="Enter 5-letter word">
             <button id="start-game">Start Game</button>
         </div>
-        <div class="message" id="message"></div>
-        <div class="board" id="board"></div>
-        <div class="keyboard hidden" id="keyboard"></div>
+        <div id="board" class="board"></div>
+        <div id="keyboard" class="keyboard"></div>
     </div>
     <script src="script.js"></script>
 </body>
